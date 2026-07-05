@@ -1,2 +1,3 @@
-# TheluChaFix
-Mobile iPhone, iPad &amp; Android Repair Website
+# TheluCha Fix Premium Website
+
+Upload index.html, style.css, and script.js to GitHub.
